@@ -1,6 +1,6 @@
 # Nomenclature
  
-  ![Build Status](https://github.com/QuickSilver-1/Nomenclature/actions/workflows/go.yml/badge.svg)
+  ![Build Status](https://github.com/QuickSilver-1/Nomenclature/actions/workflows/docker-image.yml/badge.svg)
 
  <h3>Прототип сервиса добавления продуктов в заказ</h3>
 
